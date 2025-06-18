@@ -44,9 +44,9 @@ Ways to contribute:
 
 | Repository                                             | Description                          |
 | ------------------------------------------------------ | ------------------------------------ |
-| [C2VM](https://github.com/C2-Lang/c2vm)               | The C² Virtual Machine                |
-| [C2 Compiler](https://github.com/C2-Lang/c2) | The reference compiler and toolchain           |
-| [Examples](https://github.com/your-org/c2-examples)    | Learning and test programs           |
+| [C² Language](https://github.com/C2-Lang/c2)           | The reference language and toolchain |
+| [C2VM](https://github.com/C2-Lang/c2vm)                | The C² Virtual Machine               |
+| [C² Assembler](https://github.com/C2-Lang/c2asm)       | The C² Assembler to .c2b (C² Bytes   |
 
 ---
 
